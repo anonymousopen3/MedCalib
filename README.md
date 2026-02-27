@@ -1,6 +1,4 @@
-# MadCalib Verified Research Implementation
-
-This package contains the streamlined, audited scripts from the **MedCalib** codebase (`claib.py` and `claib_slake.py`). 
+# MadCalib 
 
 ## 📂 Contents
 - `engine.py`: consolidated behavioral probing logic.
